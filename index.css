@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+    background: #0F0F0F;
+}
+
+.section_1 {
+    position: relative;
+}
+
+.porten {
+    position: absolute;
+    top: 20px;
+    left: 300px;
+    bottom: 30px;
+
+}
+
+.navbar {
+    margin-top: 8px;
+    position: absolute;
+    left: 500px;
+    list-style: none;
+}
+
+
+
+.navbar_text {
+    color: #fff;
+    margin-left: 10px;
+
+}
+
+.navbar_text1 {
+    color: #fff;
+    margin-left: 10px;
+    background: rgb(31, 31, 31);
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: -23px;
+    margin-top: -15px;
+}
+
+.nav_icon {
+    position: absolute;
+    top: 18px;
+    left: 1300px;
+}
+
+.icon {
+    margin-left: 40px;
+}
+
+.section_2 {
+    background: url(image/Rectangle\ 3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 679px;
+}
+
+.box {
+    border: 3px solid white;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    background: linear-gradient(0deg, rgba(15, 15, 15, 0), rgba(15, 15, 15, 0)), url(.jpg);
+    left: 650PX;
+    top: 200px;
+}
+
+.porten2 {
+    position: absolute;
+    top: 65px;
+    left: 10px;
+    background: linear-gradient(0deg, rgba(15, 15, 15, 0), rgba(15, 15, 15, 0)), url(.jpg);
+    font-size: 60px;
+    color: #fff;
+
+    font-family: 'Post No Bills Jaffna';
+}
+
+.line {
+    position: absolute;
+    top: 135px;
+    left: 33px;
+}
+
+.text {
+    position: absolute;
+    background: linear-gradient(0deg, rgba(15, 15, 15, 0), rgba(15, 15, 15, 0)), url(.jpg);
+    color: #fff;
+    top: 140px;
+    left: 60px;
+    font-family: 'PT Sans';
+}
+
+.lorem {
+    background: linear-gradient(0deg, rgba(15, 15, 15, 0), rgba(15, 15, 15, 0)), url(.jpg);
+    color: #fff;
+    position: absolute;
+    top: 550px;
+    text-align: center;
+    left: 500px;
+}
+
+.lorem10 {
+    background: linear-gradient(0deg, rgba(15, 15, 15, 0), rgba(15, 15, 15, 0)), url(.jpg);
+    font-family: 'PT Sans';
+}
