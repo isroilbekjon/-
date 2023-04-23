@@ -110,3 +110,206 @@
     background: linear-gradient(0deg, rgba(15, 15, 15, 0), rgba(15, 15, 15, 0)), url(.jpg);
     font-family: 'PT Sans';
 }
+
+.left_box_text {
+    font-family: 'PT Sans';
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    position: absolute;
+    top: 900px;
+    left: 300px;
+}
+
+.left_box_img {
+    position: absolute;
+    top: 960px;
+    left: 330px;
+}
+
+.card2 {
+    border: 2px solid #635b5b;
+    width: 220px;
+    height: 250px;
+    position: absolute;
+    top: 1020px;
+    left: 300px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: url(image/62050\ 1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #191B1C;
+    border-radius: 15px;
+}
+
+.card3 {
+    border: 2px solid #635b5b;
+    width: 220px;
+    height: 250px;
+    position: absolute;
+    top: 1020px;
+    left: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: url(image/62050\ 1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #191B1C;
+    border-radius: 15px;
+}
+
+.card4 {
+    border: 2px solid #635b5b;
+    border-radius: 15px;
+    width: 220px;
+    height: 250px;
+    position: absolute;
+    top: 1020px;
+    left: 580px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: url(image/62050\ 1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #191B1C;
+}
+
+.left-box-text {
+    position: absolute;
+    top: 270px;
+    font-family: 'Playfair Display';
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF
+}
+
+.left-box-buy {
+    position: absolute;
+    top: 295px;
+    font-family: 'Playfair Display';
+    font-size: 16px;
+    line-height: 21px;
+    color: #FFFFFF
+}
+
+.left-box-text1 {
+    position: absolute;
+    top: 270px;
+    font-family: 'Playfair Display';
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF
+}
+
+.left-box-buy1 {
+    position: absolute;
+    top: 295px;
+    font-family: 'Playfair Display';
+    font-size: 16px;
+    line-height: 21px;
+    color: #FFFFFF
+}
+
+.left-box-text2 {
+    position: absolute;
+    top: 270px;
+    font-family: 'Playfair Display';
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF
+}
+
+.left-box-buy2 {
+    position: absolute;
+    top: 295px;
+    font-family: 'Playfair Display';
+    font-size: 16px;
+    line-height: 21px;
+    color: #FFFFFF
+}
+
+.right_box {
+    background: url(image/Rectangle\ 8.png);
+    height: 600px;
+    margin-right: -110px;
+    margin-left: 100px;
+    border-left: 2px solid #635b5b;
+    border-bottom-left-radius: 30px;
+    border-bottom: 2px solid #635b5b;
+}
+
+.right_text {
+    position: absolute;
+    background: linear-gradient(0deg, rgba(15, 15, 15, 0), rgba(15, 15, 15, 0)), url(.jpg);
+    color: #fff;
+    top: 1100px;
+    left: 1080px;
+    font-family: 'PT Sans';
+    font-size: 40px;
+}
+
+.right_image {
+    position: absolute;
+    top: 1170px;
+    left: 1140px;
+}
+
+.text_right {
+    border: 2px solid white;
+    padding: 5px 15px 5px 15px;
+    font-size: 30px;
+    color: #fff;
+    background: linear-gradient(0deg, rgba(15, 15, 15, 0), rgba(15, 15, 15, 0)), url(.jpg);
+    position: absolute;
+    top: 1200px;
+    left: 1160px;
+
+}
+
+.kostyum {
+    background: url(image/Rectangle\ 9.png);
+    height: 600px;
+    margin-left: -120px;
+    margin-top: 20px;
+    border-top: 2px solid #635b5b;
+    border-right: 2px solid #635b5b;
+    border-bottom: 2px solid #635b5b;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+#textt {
+    position: absolute;
+    top: 1450px;
+    left: 1050px;
+}
+
+.right {
+    position: absolute;
+    top: 1550px;
+    left: 1100px;
+}
+
+.lorem100 {
+    text-align: center;
+    color: #fff;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    position: absolute;
+    top: 1600px;
+    left: 975px;
+}
+#link{
+    position: absolute;
+    top: 1830px;
+    font-family: 'PT Sans';
+    font-size: 20px;
+    left: 1075px;
+    padding: 5px 25px 5px 25px;
+}
