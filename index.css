@@ -305,11 +305,143 @@
     top: 1600px;
     left: 975px;
 }
-#link{
+
+#link {
     position: absolute;
     top: 1830px;
     font-family: 'PT Sans';
     font-size: 20px;
     left: 1075px;
     padding: 5px 25px 5px 25px;
+}
+
+.card5 {
+    border: 2px solid #635b5b;
+    border-radius: 15px;
+    width: 220px;
+    height: 250px;
+    position: absolute;
+    top: 2250px;
+    left: 200px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: url(image/62050\ 1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #191B1C;
+}
+
+.card6 {
+    border: 2px solid #635b5b;
+    border-radius: 15px;
+    width: 220px;
+    height: 250px;
+    position: absolute;
+    top: 2250px;
+    left: 500px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: url(image/62050\ 1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #191B1C;
+}
+
+.card7 {
+    border: 2px solid #635b5b;
+    border-radius: 15px;
+    width: 220px;
+    height: 250px;
+    position: absolute;
+    top: 2250px;
+    left: 800px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: url(image/62050\ 1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #191B1C;
+
+}
+
+.card8 {
+    border: 2px solid #635b5b;
+    border-radius: 15px;
+    width: 220px;
+    height: 250px;
+    position: absolute;
+    top: 2250px;
+    left: 1100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: url(image/62050\ 1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #191B1C;
+
+}
+
+#sha384 {
+    position: absolute;
+    top: 2100px;
+    left: 550px;
+}
+
+#demo {
+    position: absolute;
+    top: 2190px;
+    left: 650px;
+}
+#w {
+    position: absolute;
+    top: 2600px;
+}
+
+#e {.
+    position: absolute;
+    top: 2600px;
+}
+
+#r {
+    position: absolute;
+    top: 2600px;
+}
+
+#t {
+    position: absolute;
+    top: 2600px;
+}
+#sh{
+    position: absolute;
+    top: 3000px;
+    left: 600px;
+}
+#luki{
+    position: absolute;
+    top: 3080px;
+    left: 635px;
+}
+.lucci{
+    position: absolute;
+    top: 3100px;
+    left: 200px;
+
+}
+.lucci1{
+    position: absolute;
+    top: 3100px;
+    left: 500px;
+}
+.lucci2{
+    position: absolute;
+    top: 3100px;
+    left: 800px;
+}
+.lucci3{
+    position: absolute;
+    top: 3100px;
+    left: 1100px;
+}
+.section_6{
+    
 }
