@@ -508,40 +508,45 @@
     padding: 2px 10px 2px 10px;
 
 }
-.btn2{
+
+.btn2 {
     position: absolute;
     top: 3400px;
     left: 670px;
     border: none;
-    padding: 2px 10px 2px 10px ;
+    padding: 2px 10px 2px 10px;
 }
-.btn3{
+
+.btn3 {
     position: absolute;
     top: 3400px;
     left: 770px;
     border: none;
-    padding: 2px 10px 2px 10px ;
+    padding: 2px 10px 2px 10px;
 }
-.btn4{
+
+.btn4 {
     position: absolute;
     top: 3450px;
     left: 600px;
     border: none;
-    padding: 2px 10px 2px 10px ;
+    padding: 2px 10px 2px 10px;
 }
-.btn5{
+
+.btn5 {
     position: absolute;
     top: 3450px;
     left: 770px;
     border: none;
-    padding: 2px 10px 2px 10px ;
+    padding: 2px 10px 2px 10px;
 }
 
 .btn-text {
     color: #fff;
     font-size: 14px;
 }
-#id2{
+
+#id2 {
     position: absolute;
     top: 3345px;
     left: 1000px;
@@ -550,13 +555,15 @@
     font-size: 34px;
     background: linear-gradient(0deg, rgba(15, 15, 15, 0), rgba(15, 15, 15, 0)), url(.jpg);
 }
-#id3{
+
+#id3 {
     position: absolute;
     left: 1000px;
     top: 3400px;
     width: 400px;
 }
-.input{
+
+.input {
     position: absolute;
     top: 3450px;
     padding: 2px 10px 2px 10px;
@@ -566,7 +573,8 @@
     left: 1000px;
 
 }
-.btn8{
+
+.btn8 {
     position: absolute;
     top: 3450px;
     left: 1220px;
@@ -574,7 +582,8 @@
     border: 2px solid #191B1C;
     border-radius: 20px 0px 20px 0px;
 }
-.btn-textt{
+
+.btn-textt {
     color: #fff;
     border-radius: 20px 0px 20px 0px;
     padding-top: 4px;
